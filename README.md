@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, meu nome é Bárbara, mas todos me chamam de Verde</h1>
 <h3 align="center">Sou apaixonada por análise e visualização de dados em Python</h3>
 
-- 🌱 Atualmente estou aprendendo **Python e Scraping**
+- 🌱 Pythonista, me interesso por dados, scrapping e gráficos bonitos  ✨
 
 - 📝 Meu LinkedIn [https://www.linkedin.com/in/barbarabicardozo/](https://www.linkedin.com/in/barbarabicardozo/)
 
 - 💬 Me pergunte sobre **DataViz, Estatística, Python, Power BI**
 
-- 📫 Entre em contato pelo email **bbissacardozo@gmail.com**
+- 📫 Entre em contato pelo email **bbissacardozo@gmail.com** ou o mais legal e pessoal **pandaaquatico@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
